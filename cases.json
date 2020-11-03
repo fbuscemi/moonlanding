@@ -1,0 +1,23 @@
+[
+    {
+        "description": "case 1",
+        "force1": 36350,
+        "force2": 1308,
+        "thrustEndTime": 210,
+        "thrustDecreaseTime": 43.2
+    },
+    {
+        "description": "case 2 - decreased f1",
+        "force1": 35000,
+        "force2": 1308,
+        "thrustEndTime": 210,
+        "thrustDecreaseTime": 43.2
+    },
+    {
+        "description": "case 3 - increased f2",
+        "force1": 36350,
+        "force2": 1400,
+        "thrustEndTime": 210,
+        "thrustDecreaseTime": 43.2
+    }
+]
